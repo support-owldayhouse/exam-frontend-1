@@ -1,7 +1,7 @@
 # วิธีการส่งข้อสอบ
 1. อัพ Code ขึ้น GitHub ของตัวเอง
 2. Deploy Code ขึ้น Hosting ที่ไหนก็ได้
-3. ส่ง Link GitHub และ Link Website ที่อัพขึ้น Hosting แล้วมาทาง **Email: suphakon.owldayhouse@gmail.com**
+3. ส่ง Link GitHub และ Link Website ที่อัพขึ้น Hosting แล้วมาทาง **Email: suphakon@owldayhouse.com**
 
 # Frontend
 - สามารถใช้ Vue, React, Angular, Svelte หรือ Framework ใดๆ ในการสอบก็ได้
